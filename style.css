@@ -93,7 +93,7 @@ header .icons .user-name:hover{
     align-items: flex-start; /* Align content to the top */
     justify-content: flex-start; /* Align content to the left */
     min-height: 100vh;
-    background: url(../images/bg1.jpeg) no-repeat center center/cover;
+    background: url(images/bg1.jpeg) no-repeat center center/cover;
     padding-top: 6rem; /* Reduced padding to move content more to the top */
     position: relative;
 }
