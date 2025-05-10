@@ -76,13 +76,7 @@ header .icons a:hover {
 
 
 
-header .icons .user-name {
-    font-size: 1.6rem;
-    color: #5e4b3c; /* beige-friendly dark brown */
-    margin-left: 1rem;
-    font-weight: 500;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
 
 header .icons .user-name:hover{
     cursor: pointer;
